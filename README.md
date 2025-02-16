@@ -1,4 +1,4 @@
-# Object Detection Project
+# AI Object Detector
 
 This project is an object detection application that identifies objects in images and plays an audio alert when a person is detected.
 
@@ -18,4 +18,4 @@ This project is an object detection application that identifies objects in image
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lodash](https://lodash.com/)
-- [TensorFlow.js COCO-SSD](https://www.tensorflow.org/js/models)
+- [TensorFlow.js COCO-SSD](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd)
