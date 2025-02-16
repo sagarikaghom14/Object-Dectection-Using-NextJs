@@ -13,9 +13,9 @@ This project is an object detection application that identifies objects in image
 
 3. The application will display the object detection interface. When a person is detected, an audio alert will play.
 
-
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lodash](https://lodash.com/)
+- [TensorFlow.js COCO-SSD](https://www.tensorflow.org/js/models)
